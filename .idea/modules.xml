@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/microservices/amigosservices.iml" filepath="$PROJECT_DIR$/microservices/amigosservices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservices/amqp/amqp.iml" filepath="$PROJECT_DIR$/microservices/amqp/amqp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservices/apigw/apigw.iml" filepath="$PROJECT_DIR$/microservices/apigw/apigw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservices/clients/clients.iml" filepath="$PROJECT_DIR$/microservices/clients/clients.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservices/customer/customer.iml" filepath="$PROJECT_DIR$/microservices/customer/customer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservices/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/microservices/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservices/fraud/fraud.iml" filepath="$PROJECT_DIR$/microservices/fraud/fraud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/microservice-project.iml" filepath="$PROJECT_DIR$/.idea/microservice-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservices/notification/notification.iml" filepath="$PROJECT_DIR$/microservices/notification/notification.iml" />
+    </modules>
+  </component>
+</project>
